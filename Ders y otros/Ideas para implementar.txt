@@ -1,0 +1,13 @@
+Implementar mensajes de error al momento de ingresar una cuenta que no existe en la base de datos.
+Averiguar como conectar a una base de datos con XAMPP.
+Averiguar como conectar a la base de datos creada y si XAMPP necesita información adicional.
+Averiguar como compartir la base de datos de manera efectiva.
+Iniciar la creación del der.
+Idear un panel principal para luego del login tenga apartados como para ver los balances, tanto en pesos, cryptos, pesos (En forma de cedeares) poder obtener un porcentaje en base a cuanto dinero se encuentre invertido en 
+cada uno para entender en base a que tipo de activos esta compuesta la cartera. además de uno para un presupuesto mensual. 
+¿Tres apartados? Monedas. Cedeares. Crypto??
+En el apartado de monedas, poder ingresar por ejemplo la cantidad de dinero que se dispone para realizar un presupuesto.
+Luego en el apartado de cedeares, poder observar los cedeares de los que disponemos, averiguar si se puede obtener un listado de los existentes para poder sumar de cuantos disponemos.
+Investigar si se puede obtener el valor o se deberá ingresar el valor diario manualmente.
+Algo similar al punto anterior deberá hacerce con crypto.
+

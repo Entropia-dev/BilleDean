@@ -11,3 +11,10 @@ Luego en el apartado de cedeares, poder observar los cedeares de los que dispone
 Investigar si se puede obtener el valor o se deberá ingresar el valor diario manualmente.
 Algo similar al punto anterior deberá hacerce con crypto.
 
+¿Sera posible implementar algún listado que incorpore los cedeares o los precios de los mismos tanto en dólares con ars?
+Seria conveniente un conversor de moneda que te muestre todos los activos en por ejempo ars, usd, o alguna crypto.
+
+Luego de loguear ¿Qué deberá tener la pantalla principal?.
+
+INVESTIGAR SOBRE LA API https://www.alphavantage.co/ PARA OBTENER LOS PRECIOS DE LOS CEDEARES. También investigar sobre la api de binance para obtener todos los precios referidos a crypto.
+

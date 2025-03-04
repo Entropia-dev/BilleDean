@@ -10,7 +10,7 @@ public class HomeController {
     @GetMapping("/")
     public String index(Model model) {
         model.addAttribute("appName", "Mi Aplicación Web");
-        return "landing/index"; // Busca el archivo index.html en src/main/resources/templates/
+        return "Landing/index"; // Busca el archivo index.html en src/main/resources/templates/
     }
 }
 
